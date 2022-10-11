@@ -1,0 +1,83 @@
+E:\Anaconda\envs\diffusion\python.exe E:\PycharmProject\diffusioner\guided_diffusion\unet.py
+hs1 shape is torch.Size([2, 64, 256, 256])
+hs1 shape is torch.Size([2, 64, 256, 256])
+hs1 shape is torch.Size([2, 64, 256, 256])
+hs1 shape is torch.Size([2, 64, 128, 128])
+hs1 shape is torch.Size([2, 128, 128, 128])
+hs1 shape is torch.Size([2, 128, 128, 128])
+hs1 shape is torch.Size([2, 128, 64, 64])
+hs1 shape is torch.Size([2, 128, 64, 64])
+hs1 shape is torch.Size([2, 128, 64, 64])
+hs1 shape is torch.Size([2, 128, 32, 32])
+hs1 shape is torch.Size([2, 256, 32, 32])
+hs1 shape is torch.Size([2, 256, 32, 32])
+hs1 shape is torch.Size([2, 256, 16, 16])
+hs1 shape is torch.Size([2, 256, 16, 16])
+hs1 shape is torch.Size([2, 256, 16, 16])
+15
+hs1 shape is torch.Size([2, 64, 256, 256])
+hs1 shape is torch.Size([2, 64, 256, 256])
+hs1 shape is torch.Size([2, 64, 256, 256])
+hs1 shape is torch.Size([2, 64, 128, 128])
+hs1 shape is torch.Size([2, 128, 128, 128])
+hs1 shape is torch.Size([2, 128, 128, 128])
+hs1 shape is torch.Size([2, 128, 64, 64])
+hs1 shape is torch.Size([2, 128, 64, 64])
+hs1 shape is torch.Size([2, 128, 64, 64])
+hs1 shape is torch.Size([2, 128, 32, 32])
+hs1 shape is torch.Size([2, 256, 32, 32])
+hs1 shape is torch.Size([2, 256, 32, 32])
+hs1 shape is torch.Size([2, 256, 16, 16])
+hs1 shape is torch.Size([2, 256, 16, 16])
+hs1 shape is torch.Size([2, 256, 16, 16])
+15
+h shape is torch.Size([2, 64, 256, 256])
+h shape is torch.Size([2, 64, 256, 256])
+h shape is torch.Size([2, 64, 256, 256])
+h shape is torch.Size([2, 64, 128, 128])
+h shape is torch.Size([2, 128, 128, 128])
+h shape is torch.Size([2, 128, 128, 128])
+h shape is torch.Size([2, 128, 64, 64])
+h shape is torch.Size([2, 128, 64, 64])
+h shape is torch.Size([2, 128, 64, 64])
+h shape is torch.Size([2, 128, 32, 32])
+h shape is torch.Size([2, 256, 32, 32])
+h shape is torch.Size([2, 256, 32, 32])
+h shape is torch.Size([2, 256, 16, 16])
+h shape is torch.Size([2, 256, 16, 16])
+h shape is torch.Size([2, 256, 16, 16])
+h result list len 16
+h_.shape torch.Size([2, 768, 16, 16])
+2
+h_.shape torch.Size([2, 768, 16, 16])
+3
+h_.shape torch.Size([2, 768, 16, 16])
+4
+h_.shape torch.Size([2, 768, 32, 32])
+5
+h_.shape torch.Size([2, 768, 32, 32])
+6
+h_.shape torch.Size([2, 384, 32, 32])
+7
+h_.shape torch.Size([2, 384, 64, 64])
+8
+h_.shape torch.Size([2, 384, 64, 64])
+9
+h_.shape torch.Size([2, 384, 64, 64])
+10
+h_.shape torch.Size([2, 384, 128, 128])
+11
+h_.shape torch.Size([2, 384, 128, 128])
+12
+h_.shape torch.Size([2, 192, 128, 128])
+13
+h_.shape torch.Size([2, 192, 256, 256])
+14
+h_.shape torch.Size([2, 192, 256, 256])
+15
+h_.shape torch.Size([2, 192, 256, 256])
+16
+<class 'torch.Tensor'>
+shape of the output:  torch.Size([2, 1, 256, 256])
+
+Process finished with exit code 0
